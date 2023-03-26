@@ -77,7 +77,7 @@ padding: 0px;
   
 }
 .recomendación {
-  overflow: scroll;
+  overflow: auto;
   width: 100%;
 }
 
@@ -106,7 +106,7 @@ padding: 0px;
 }
 .acción{
   margin-right: 10px;
-  overflow: scroll;
+  overflow: auto;
   display: flex;
 }
 
