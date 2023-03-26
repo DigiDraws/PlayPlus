@@ -1,0 +1,122 @@
+body{
+    width: 100%;
+    height: 100%;
+    border-radius: 2px;
+    
+}
+.x{
+   display: block;
+   margin: 0 auto;
+}
+.categoria1{
+    text-align: center;
+    color: white;
+}
+
+#rc{
+    border: none;
+    transform: translateX(-25px);
+}
+#an{
+    border: none;
+}
+#tpg{
+    border: none;
+}
+#menu{
+    border: none;
+    z-index: 0;
+  width: 95%;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  padding: 0 0 0 0;
+  margin: 0;
+}
+
+
+
+#amor{
+    border: none;
+}
+#terror1{
+    border: none;
+}
+#risa{
+    border: none;
+}
+#accion{
+    border: none;
+}
+#playplus{
+    color: white;
+    transform: translateX(20px);
+}
+  .sustos {
+      display: flex;
+    text-align: right;
+    overflow: scroll;
+  }
+.sustos img{
+  margin-right: 10px; 
+}
+
+.recomendación {
+  display: flex;
+}
+.verahora {
+  margin-top: -60px;
+}
+.verahora img{
+padding-top: 0;
+margin-top: 1em;
+padding: 0px;
+  margin-left: 8%;
+  width: 20%;
+  height: auto;
+  
+}
+.recomendación {
+  overflow: scroll;
+  width: 100%;
+}
+
+.recomendación img {
+  margin-right: 10px
+  width: 100px;
+  height: 250px;
+}
+.comedia {
+  display: flex;
+  flex-wrap: nowrap;
+ overflow-y: auto;
+  
+  height: 255px;
+}
+.comedia img{
+  width: 150px;
+  height: 250px;
+  margin-right: 10px;
+}
+
+.tepuedegustar{
+  height: 260px;
+  overflow-y: auto;
+  display: flex;
+}
+.acción{
+  margin-right: 10px;
+  overflow: scroll;
+  display: flex;
+}
+
+.animaciones{
+    overflow-x: auto;
+    display: flex;
+    width: 100%;
+    height: 50%;
+}
+.amor{
+    overflow-x: auto;
+    display: flex;
+}

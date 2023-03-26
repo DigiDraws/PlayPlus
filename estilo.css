@@ -1,0 +1,49 @@
+#tloupo {
+padding: 0px;
+}
+
+.capdetlou{
+    text-align: left;
+    overflow-y: auto;
+    display: flex;
+    color: white;
+    text-align: center;
+  padding-left: 30px;
+  justify-content: space-between;
+  
+    
+}
+.capdetlou a{
+padding: 3px;
+}
+.todo{
+    font-family: Gravity Font;
+  
+}
+.e1{
+    margin-left: 0px;
+    
+}
+.e2{
+    margin-left: 0px;
+    
+}
+#tloupo{
+    margin-left: 15px;
+  width: 1000px;
+  height: 700px;
+}
+.Temporada1{
+  margin-left: 45px;
+  opacity: 0.5;
+}
+.capdetlou img{
+  height: 380px;
+    width: 250px;
+  
+}
+
+.capdetlou {
+  width: 1000px;
+  height: 450px;
+}
