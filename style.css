@@ -13,7 +13,7 @@ body{
     color: white;
 }
 .PlayPlus{ 
-display: inline-block;
+position:fixed;
 
 }
 #rc{
