@@ -13,7 +13,8 @@ body{
     color: white;
 }
 .PlayPlus{ 
-display: Flex;
+display: inline-block;
+
 }
 #rc{
     border: none;
