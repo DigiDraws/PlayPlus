@@ -59,7 +59,7 @@ width: 105%
   .sustos {
       display: flex;
     text-align: right;
-    overflow: scroll;
+    overflow: auto;
   }
 .sustos img{
   margin-right: 10px; 
