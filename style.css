@@ -12,7 +12,10 @@ body{
     text-align: center;
     color: white;
 }
-
+.signomas{ 
+  color: blue;
+font-size: 6;
+}
 #rc{
     border: none;
     transform: translateX(-25px);
