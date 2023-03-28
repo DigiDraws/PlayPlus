@@ -4,6 +4,9 @@ body{
     border-radius: 2px;
     
 }
+.recomendación {
+ transform: traslateX(-25px);
+}
 .x{
    display: block;
    margin: 0 auto;
@@ -16,7 +19,6 @@ body{
 }
 #rc{
     border: none;
-    transform: translateX(-25px);
 }
 #an{
     border: none;
