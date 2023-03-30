@@ -6,6 +6,7 @@ body{
 }
 .recomendación {
  transform: traslateX(-25px);
+border-radius: none;
 }
 .x{
    display: block;
