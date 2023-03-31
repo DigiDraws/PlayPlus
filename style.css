@@ -5,7 +5,7 @@ body{
     
 }
 .recomendación {
- transform: traslateX(-25px);
+ 
 border-radius: none;
 }
 .x{
@@ -21,6 +21,7 @@ border-radius: none;
 #rc{
     border: none;
     border-color: black;
+transform: traslateX(-25px);
 }
 #an{
     border: none;
