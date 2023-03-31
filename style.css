@@ -4,10 +4,6 @@ body{
     border-radius: 2px;
     
 }
-.recomendación {
- 
-border-radius: none;
-}
 .x{
    display: block;
    margin: 0 auto;
@@ -20,7 +16,6 @@ border-radius: none;
 }
 #rc{
     border: none;
-    border-color: black;
 transform: traslateX(-25px);
 }
 #an{
