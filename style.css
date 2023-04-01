@@ -12,8 +12,9 @@ body{
     text-align: center;
     color: white;
 }
-*{
+iframe{
 border: none;
+width: 100%;
  }
 #rc{
     border: 0;
