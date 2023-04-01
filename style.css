@@ -71,7 +71,7 @@ width: 105%
   display: flex;
 }
 .verahora {
-  transform: traslateY(50%)
+  transform: traslateY(50px)
   z-index: 2;
 }
 .verahora img{
