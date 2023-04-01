@@ -12,21 +12,31 @@ body{
     text-align: center;
     color: white;
 }
+
 iframe{
 border: none;
 width: 100%;
  }
+
+
 #rc{
     border: 0;
 transform: traslateX(-25px);
 width: 100%;
 }
+
+.PlayPlus img{
+  height: 200px;
+}
+
 #an{
     border: none;
 }
+
 #tpg{
     border: none;
 }
+
 .menu{
     border: none;
     z-index: 0;
