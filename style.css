@@ -12,8 +12,9 @@ body{
     text-align: center;
     color: white;
 }
-
-}
+*{
+border: none;
+ }
 #rc{
     border: 0;
 transform: traslateX(-25px);
