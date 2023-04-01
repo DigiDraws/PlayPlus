@@ -19,6 +19,7 @@ width: 100%;
 #rc{
     border: 0;
 transform: traslateX(-25px);
+width: 100%;
 }
 #an{
     border: none;
@@ -69,6 +70,7 @@ width: 105%
 
 .recomendación {
   display: flex;
+width: 100%;
 }
 .verahora {
   transform: traslateY(50px)
